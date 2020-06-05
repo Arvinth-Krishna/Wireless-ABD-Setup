@@ -1,5 +1,5 @@
-# Wireless-ABD-Setup
-This code help us to setup Wireless ABD.
+# Wireless-ADB-Setup
+This code help us to setup Wireless ADB.
 Just follow intsruction give by the Cmd to setup Wireless ADB.
 
 Before using the code **Set Path Environmental Variable for SDK (platforms-tools) in Windows**
