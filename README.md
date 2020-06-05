@@ -12,4 +12,4 @@ Follow the steps to setup Environmental Variable:
 3) And now successfully Environmental Variable is created.
 
 **And NOW RUN the CODE!!!**
-![image](https://user-images.githubusercontent.com/49812701/83905443-519ab500-a77f-11ea-8597-f58b7259ba04.png)
+![image](https://user-images.githubusercontent.com/49812701/83906158-b0146300-a780-11ea-9d54-7ee08902a131.png)
