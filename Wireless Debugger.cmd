@@ -1,8 +1,5 @@
 @echo off
-cd ..
-cd ..
-cd ..
-cd Users/Arvinth/Android/Sdk/platform-tools
+
 :setup
 cls
 echo.
