@@ -12,4 +12,4 @@ Follow the steps to setup Environmental Variable:
 3) And now successfully Environmental Variable is created.
 
 **And NOW RUN the CODE!!!**
-/img
+"/img"
