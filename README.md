@@ -10,7 +10,7 @@ eg:
 
 Before using the code **Set Path Environmental Variable for SDK (platforms-tools) in Windows**
 
-######################################################################################################################
+################################################################################################
 **_Follow the steps to setup Environmental Variable:_**
 
 1) Type **Edit Environmental Variable for your account** in **Start Menu**
@@ -18,7 +18,7 @@ Before using the code **Set Path Environmental Variable for SDK (platforms-tools
            variable name : **ANDROID_HOME**
            variable value: **Paste the andriod Sdk path**
 3) And now successfully Environmental Variable is created.
-#######################################################################################################################
+################################################################################################
 
 **And NOW RUN the CODE!!!**
 ![image](https://user-images.githubusercontent.com/49812701/83906158-b0146300-a780-11ea-9d54-7ee08902a131.png)
