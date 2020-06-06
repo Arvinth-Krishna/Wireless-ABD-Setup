@@ -20,7 +20,6 @@ set /p helju=
 
 if %helju%== 1 goto fuck1
 if %helju%== 2 goto fuck2
-if %helju%== ' goto fuck2
 if %helju%== 3 goto fuck3
 exit
 :fuck1
@@ -46,7 +45,7 @@ pause
 cls
 echo.
 echo.
-adb connect 192.168.1.41
+adb connect EnterYourIPAddress(Mobile)
 echo.
 Echo Now Remove the USB cable
 echo.
@@ -69,7 +68,7 @@ echo.
 echo.
 echo Enter the Number
 set /p clg=
-if %clg%== ' goto studio
+
 if %clg%== 1 goto studio
 if %clg%== 2 goto setup
 if %clg%== 3 goto wayout
@@ -94,7 +93,7 @@ pause
 cls
 echo.
 echo.
-adb connect 192.168.1.41
+adb connect EnterYourIPAddress(Mobile)
 
 echo.
 echo.
@@ -119,11 +118,9 @@ echo.
 echo.
 echo Enter the Number
 set /p clg=
-if %clg%== ' goto studio
 if %clg%== 1 goto studio
 if %clg%== 2 goto setup
 exit
-
 :studio
 cd ..
 cd ..
