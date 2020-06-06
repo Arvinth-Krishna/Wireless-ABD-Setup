@@ -1,13 +1,12 @@
 # Wireless-ADB-Setup
 This code help us to setup Wireless ADB.
 Just follow intsruction give by the Cmd to setup Wireless ADB.
----
+###
 **_NOTE:_**
-Replace **EnterYourIPAddress(Mobile)** in the code **48th & 96th lines** with your mobile IP Address.
+### Replace **EnterYourIPAddress(Mobile)** in the code **48th & 96th lines** with your mobile IP Address.
 eg:
    adb connect 192.168.1.40
----
-
+###
 Before using the code **Set Path Environmental Variable for SDK (platforms-tools) in Windows**
 
 ***
