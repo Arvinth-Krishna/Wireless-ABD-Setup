@@ -7,7 +7,7 @@ Just follow intsruction given by the Cmd Prompt to setup Wireless ADB.
 eg:
    adb connect 192.168.1.40
 ***
-Before using the code **Set Path Environmental Variable for SDK (platforms-tools) in Windows**
+Before using the Batchfile **Set Path Environmental Variable for SDK (platforms-tools) in Windows**
 
 ***
 **_Follow the steps to setup Environmental Variable:_**
