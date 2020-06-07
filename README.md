@@ -19,9 +19,9 @@ Before using the Batchfile **Set Path Environmental Variable for SDK (platforms-
 3) And now successfully Environmental Variable is created.
 ***
 
-**And NOW RUN the CODE!!!**
+**After completing above procedure and then RUN the CODE Now!!!**
 ![image](https://user-images.githubusercontent.com/49812701/83906158-b0146300-a780-11ea-9d54-7ee08902a131.png)
 
-**It display instructions -> Just follow to setup Wireless ADB.**
+**It display instructions -> Just follow the instruction to setup Wireless ADB.**
 ![image](https://user-images.githubusercontent.com/49812701/83933303-04413680-a7c5-11ea-94ab-014dc8ffb239.png)
 
