@@ -1,6 +1,6 @@
 # Wireless-ADB-Setup
 This code help us to setup Wireless ADB.
-Just follow intsruction given by the Cmd to setup Wireless ADB.
+Just follow intsruction given by the Cmd Prompt to setup Wireless ADB.
 ***
 **_NOTE:_**
 ### Replace **EnterYourIPAddress(Mobile)** in the code **48th & 96th lines** with your mobile IP Address.
